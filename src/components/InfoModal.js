@@ -67,7 +67,7 @@ const InfoModal = () => {
                   <li>Filtra por kind:30402 y tag:nostrmarketplace</li>
                   <li>Los productos son eventos Nostr que siguen la especificación NIP-99</li>
                   <li>
-                    Usa el tag "c" con valor "nostr-marketplace-app" para identificar productos creados por esta app
+                    Usa el tag &ldquo;c&rdquo; con valor &ldquo;nostr-marketplace-app&rdquo; para identificar productos creados por esta app
                   </li>
                 </ul>
               </div>
